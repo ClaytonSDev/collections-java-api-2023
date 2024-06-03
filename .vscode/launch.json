@@ -1,0 +1,105 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "ExBreakContinue",
+            "request": "launch",
+            "mainClass": "ExBreakContinue",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "ExForArray",
+            "request": "launch",
+            "mainClass": "ExForArray",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "ExemploforArray",
+            "request": "launch",
+            "mainClass": "ExemploforArray",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "primeiro_java.projeto.java_anatomia_de_classe.src.Boletim_Estudantil.src.BoletimEstudantil",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "primeiro_java.src.App",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "projeto_estudo.sistema_smart_tv.src.Usuario",
+            "projectName": "aula_ide"
+        }
+    ]
+}
