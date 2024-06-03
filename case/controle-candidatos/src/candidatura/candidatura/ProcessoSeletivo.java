@@ -5,6 +5,12 @@ public class ProcessoSeletivo {
         selecaoCandidatos();
 
     }
+
+    static void imprimirSelecionados() {
+        String[] candidatos = {"FELIPE", "MARCIA", "JULIA", "PAULO", "AUGUSTO"};
+
+    }
+
     static void selecaoCandidatos() {
         String[] candidatos = {"FELIPE", "MARCIA", "JULIA", "PAULO", "AUGUSTO", "MONICA", "FABRICIO", "MIRELA", "DANIELA", "JORGE"};
 
