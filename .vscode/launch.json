@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "aula_ide"
+        },
+        {
+            "type": "java",
             "name": "ProcessoSeletivo",
             "request": "launch",
             "mainClass": "ProcessoSeletivo",
