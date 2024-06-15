@@ -17,13 +17,14 @@ public class AboutMe {
         System.out.println("Digite sua idade: ");
         int idade = scanner.nextInt();
 
-        System.out.println("Digite sua altura: ");
-        double altura = scanner.nextDouble();
+        System.out.println("Digite seu Peso: ");
+        double Peso = scanner.nextDouble();
 
         //imprimindo os dados obtidos pelo usuário
         System.out.println("Olá, me chamo " + nome.toUpperCase() + " " + sobrenome);
         System.out.println("Tenho " + idade + " anos ");
-        System.out.println("Minha altura é " + altura + " cm ");
+        System.out.println("Meu peso é: " + Peso + " KG ");
+        System.out.println("ESTOU GORDÃO PRECISO EMAGRECER");
         scanner.close();
         }
         catch (InputMismatchException e){
